@@ -1,0 +1,7 @@
+streamlit
+selenium
+beautifulsoup4
+google-generativeai
+pandas
+python-dotenv
+schedule
